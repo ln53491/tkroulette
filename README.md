@@ -1,7 +1,7 @@
 
 # TkinteRoulette
 
-Python simulator of a popular casino game Roulette, fully completed.
+Python simulator of a popular casino game roulette, fully completed.
 
 
 
