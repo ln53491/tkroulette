@@ -23,6 +23,6 @@ Python simulator of a popular casino game Roulette, fully completed.
 
 ![App Screenshot](https://i.ibb.co/SmYNW1L/1.png)
 ![App Screenshot](https://i.ibb.co/vDG6G8R/3.png)
-![App Screenshot](https://i.ibb.co/Y0MF3hh/2.png) 
+![App Screenshot](https://ibb.co/41Gn7pp) 
 
 
